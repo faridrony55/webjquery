@@ -1,0 +1,16 @@
+.vh{
+	min-height: 100vh;
+	background: #ddd
+}
+.click{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	background: red;
+	color: #fff;
+	display: block;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+}
